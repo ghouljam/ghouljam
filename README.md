@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghouljam
 - 👀 I’m interested in computers, keyboards, and crafts
-- 🌱 I’m currently learning front end web dev
+- 🌱 I’m currently learning kicad
 - 📫 How to reach me: gabriel.john.cunanan@gmail.com
 
 <!---
